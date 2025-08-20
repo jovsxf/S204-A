@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+HOUVE CONFLITO AO TENTAR MUDAR A COR DE RED PARA WHITE E DE RED PARA GREEN. O CONFLITO FOI RESOLVIDO ESCOLHENDO GREEN NO FIM DAS CONTAS
+
